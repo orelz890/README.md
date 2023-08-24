@@ -15,16 +15,16 @@
 
 <!-- Connect with Me -->
 <h5 align="left">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <!-- <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code> -->
+  <code><a href="https://www.instagram.com/orelzamler/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <!-- About Me -->
 I'm a passionate developer who loves to create and innovate. I enjoy building applications that solve real-world problems and make a positive impact.
 
-- 🌱 Currently learning and experimenting with [Technology/Concept]
+- 🌱 Currently learning and experimenting with game creation applications
 - 💡 Always excited to explore new technologies and frameworks
-- 🎓 Computer Science graduate from [Your University]
+- 🎓 Computer Science Third-year student at Ariel University
 - ✨ Love open source, collaborating, and learning from the community
 <br/><br/>
 
@@ -33,8 +33,8 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 <!-- Skills -->
 ## 🌎 Languages 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) -->
+![Node.js](https://img.shields.io/badge/Node.js-JavaScript-black?style=flat&logo=node.js)
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![C Badge](https://img.shields.io/badge/-C-black?style=flat)
@@ -43,13 +43,9 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 
 
 
-## 🛠️ IDE's & Other Tools
+## 🛠️ Other Tools
 
 ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android-studio)
-![Visual Studio Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat&logo=intellij-idea)
-![Eclipse Badge](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse)
-
 ![Nginx Badge](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -91,7 +87,7 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
   <a align="left" href=https://github.com/orelz890/Instafoodies_final_project" title="Instafoodies-Final-Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;">
   </a>
   
-  <a align="left" href="https://github.com/orelz890/Instafoodies_final_project" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" ></a>
+  <a align="left" href="https://github.com/orelz890/SE_Smarter_Foodies_App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=SE_Smarter_Foodies_App&theme=react&border_color=61dafb&border_radius=10" ></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
