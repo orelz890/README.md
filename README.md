@@ -1,17 +1,9 @@
-
-<!-- Footer
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=orelz890.orelz890" alt="visitor badge"/>
-</p> -->
-
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there! 👋; I'm Orel Zamler;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!%20👋;%20I'm%20Orel%20Zamler;&center=true&size=30">
   </a>
 </h1>
+
 
 <!-- Connect with Me -->
 <h5 align="left">
@@ -63,19 +55,25 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 
 <!-- Stats -->
 <h2 align="center">Stats</h2>
-<div align=center>
+<div width="100%" align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=orelz890&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=orelz890&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelz890&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=orelz890&show_icons=true&theme=react&border_color=61dafb&hide_border=true" style="margin-left: 20px;" />
     </a>
 
 </div>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orelz890&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+<br/><br/>
+
 
 
 
@@ -84,19 +82,22 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href=https://github.com/orelz890/Instafoodies_final_project" title="Instafoodies-Final-Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;">
+  <a align="left" href=https://github.com/orelz890/Instafoodies_final_project" title="Instafoodies-Final-Project"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
   </a>
   
-  <a align="left" href="https://github.com/orelz890/SE_Smarter_Foodies_App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=SE_Smarter_Foodies_App&theme=react&border_color=61dafb&border_radius=10" ></a>
+  <a align="left" href="https://github.com/orelz890/SE_Smarter_Foodies_App" title="Data Structures"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=SE_Smarter_Foodies_App&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
+
 <div width="100%" align="center">
-  <a align="left" href=https://github.com/orelz890/Instafoodies_final_project" title="Instafoodies-Final-Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;">
+  <a align="left" href=https://github.com/orelz890/CS231n_Assignments_And_Summary" title="Instafoodies-Final-Project"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=CS231n_Assignments_And_Summary&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
   </a>
   
-  <a align="left" href="https://github.com/orelz890/Instafoodies_final_project" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" ></a>
+  <a align="left" href="https://github.com/orelz890/Instafoodies_final_project" title="Data Structures"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Instafoodies_final_project&theme=react&border_color=61dafb&border_radius=10" width="350">
+  <a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
