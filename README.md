@@ -76,6 +76,9 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 <div width="100%" align="center">
   <a align="left" href="https://github.com/orelz890/CS231n_Assignments_And_Summary" title="Instafoodies-Final-Project"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=CS231n_Assignments_And_Summary&theme=react&border_color=61dafb&border_radius=10" style="margin-right: 20px;" width="350">
   </a>
+
+  <a align="left" href="https://github.com/orelz890/Speaker_Diarization_Deep_learning" title="Data Structures"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=orelz890&repo=Speaker_Diarization_Deep_learning&theme=react&border_color=61dafb&border_radius=10" width="350" >
+  </a>
   
 </div>
 
