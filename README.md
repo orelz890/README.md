@@ -6,12 +6,7 @@
 
 <!-- Connect with Me -->
 <h5 align="left">
-  <code>
-    <a href="https://www.linkedin.com/in/orel-zamler-887220269/" title="Linkedin Profile">
-      <img width="22" src="images/linkedin.svg" style="vertical-align: middle;">
-      <span style="font-size: 17px; vertical-align: middle; display: inline-block;">Linkedin</span>
-    </a>
-  </code>
+  <code><a href="https://www.linkedin.com/in/orel-zamler-887220269/" title="Linkedin Profile"><img width="22" src="images/linkedin.svg"> <span style="font-size: 17px;">Linkedin</span> </a></code>
 </h5>
 
 
