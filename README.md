@@ -6,17 +6,24 @@
 
 <!-- Connect with Me -->
 <h5 align="left">
-  <code><a href="https://www.instagram.com/orelzamler/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code>
+    <a href="https://www.linkedin.com/in/orel-zamler-887220269/" title="Linkedin Profile">
+      <img width="22" src="images/linkedin.svg" style="vertical-align: middle;">
+      <span style="font-size: 17px; vertical-align: middle; display: inline-block;">Linkedin</span>
+    </a>
+  </code>
 </h5>
+
 
 <!-- About Me -->
 I'm a passionate developer who loves to create and innovate. I enjoy building applications that solve real-world problems and make a positive impact. 😄
 
 - 🌱 Currently learning and experimenting with game creation applications 🎮
 - 💡 Always excited to explore new technologies and frameworks 🚀
-- 🎓 Computer Science Third-year student at Ariel University 📚
-- ✨ Love open source, collaborating, and learning from the community 🌟
+- 🎓 Computer Science Third-year student at Ariel University, Israel 📚
+- ✨ Enjoy collaborating and learning from the community 🌟
 <br/><br/>
+
 
 <!-- Skills -->
 ## 🌎 Languages 
@@ -35,6 +42,7 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 </div>
 <br/>
 
+
 ## 🛠️ Other Tools
 
 ![Android Studio Badge](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=android-studio) 
@@ -44,7 +52,6 @@ I'm a passionate developer who loves to create and innovate. I enjoy building ap
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) 
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-black?style=flat&logo=google-colab) 
 ![IPython Notebook Badge](https://img.shields.io/badge/Notebook-.ipynb-black?style=flat)
-
 
 <br/>
 
